@@ -1,1 +1,7 @@
-hel
+- 운영: https://kmapshot.com
+- 개발: https://dev.kmapshot.com
+- 모니터링: https://monitor.kmapshot.com
+- 관리자: https://admin.kmapshot.com
+- api 문서: https://docs.kmapshot.com
+- 블로그: https://blog.kmapshot.com
+- 구 도메인(리다이렉트 트래픽 o): https://mapshot.netlify.app
