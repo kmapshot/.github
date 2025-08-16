@@ -1,6 +1,6 @@
 - 운영: https://kmapshot.com
 - 개발: https://dev.kmapshot.com
-- 모니터링: https://monitor.kmapshot.com
+- 모니터링: http://monitor.kmapshot.com
 - 관리자: https://admin.kmapshot.com
 - api 문서: https://docs.kmapshot.com
 - 블로그: https://blog.kmapshot.com
