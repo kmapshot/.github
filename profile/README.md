@@ -4,4 +4,5 @@
 - 관리자: https://admin.kmapshot.com
 - api 문서: https://docs.kmapshot.com
 - 블로그: https://blog.kmapshot.com
+- 헬스체크: https://status.kmapshot.com
 - 구 도메인(리다이렉트 트래픽 o): https://mapshot.netlify.app
