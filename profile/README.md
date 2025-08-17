@@ -1,8 +1,33 @@
 - 운영: https://kmapshot.com
+  - cloudflare pages
+  - master 브랜치에 밀어 넣으면 빌드, 배포
 - 개발: https://dev.kmapshot.com
+  - cloudflare pages
+  - dev 브랜치에 밀어 넣으면 빌드, 배포
 - 모니터링: http://monitor.kmapshot.com
+  - oci
+  - ssh로 붙어서 도커 컴포즈 구동 중
+- api 서버
+  - oci
+  - master 브랜치에 밀어 넣으면 빌드
+  - 배포는 별도의 워크플로우 트리거로 진행 or ssh로 붙어서 직접
+  - 인증서 3개월마다 크론탭으로 갱신 중
+- 람다 서버리스
+  - aws
+  - 배포는 별도의 워크플로우 트리거로 진행했음
+  - 요즘은 그냥 코드 편집기에 대충 붙어서 수정함
+  - 잘 볼일 없음
 - 관리자: https://admin.kmapshot.com
+  - cloudflare pages
+  - master 브랜치 밀어 넣으면 빌드, 배포
 - api 문서: https://docs.kmapshot.com
+  - netlify
+  - index.html 경로 맞춰줘야댐
 - 블로그: https://blog.kmapshot.com
+  - github pages
 - 헬스체크: https://status.kmapshot.com
+  - better stack
+  - 아이디 뭐더라
 - 구 도메인(리다이렉트 트래픽 o): https://mapshot.netlify.app
+  - netlify
+  - 리다이렉트 계속 타고 와서 3년째 못 없애는중 
