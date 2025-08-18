@@ -1,3 +1,6 @@
+- 리액트 전환: https://react.kmapshot.com
+  - cloudflare pages
+  - master 브랜치에 밀어 넣으면 빌드, 배포
 - 운영: https://kmapshot.com
   - cloudflare pages
   - master 브랜치에 밀어 넣으면 빌드, 배포
