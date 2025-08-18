@@ -7,6 +7,13 @@
 - 개발: https://dev.kmapshot.com
   - cloudflare pages
   - dev 브랜치에 밀어 넣으면 빌드, 배포
+- 센트리: https://chanwoo-lee-fv.sentry.io/explore/traces/?project=4505030053330944&statsPeriod=7d
+  - 알려드린 계정으로 구글 로그인
+- 관리자: https://admin.kmapshot.com
+  - cloudflare pages
+  - master 브랜치 밀어 넣으면 빌드, 배포
+  - 시간 되면 얘도 정리 좀 해주세영...
+  
 - 모니터링: http://monitor.kmapshot.com
   - oci
   - ssh로 붙어서 도커 컴포즈 구동 중
@@ -20,9 +27,6 @@
   - 배포는 별도의 워크플로우 트리거로 진행했음
   - 요즘은 그냥 코드 편집기에 대충 붙어서 수정함
   - 잘 볼일 없음
-- 관리자: https://admin.kmapshot.com
-  - cloudflare pages
-  - master 브랜치 밀어 넣으면 빌드, 배포
 - api 문서: https://docs.kmapshot.com
   - netlify
   - index.html 경로 맞춰줘야댐
